@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "donfk.moc3",
+		"Textures": [
+			"donfk.2048/texture_00.png"
+		],
+		"Physics": "donfk.physics3.json",
+		"DisplayInfo": "donfk.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
